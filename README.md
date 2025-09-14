@@ -21,4 +21,4 @@ I am continuously improving the game with the skills I acquire and am open to ti
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/yourusername/WebpardyGame.git
+   git clone https://github.com/NeilDACE/WebpardyGame.git
