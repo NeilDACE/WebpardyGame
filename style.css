@@ -51,6 +51,7 @@ table {
     height: 75vh;
     color: rgb(0, 0, 0);
     background-color: rgb(37, 31, 149);
+    table-layout: fixed
 }
 
 td {
